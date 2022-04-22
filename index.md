@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Asesmen Topic 2](https://erinanurs.github.io/Asesmen.ipynb)
+[Asesmen Topic 2 [Download]](https://erinanurs.github.io/Asesmen.ipynb)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
