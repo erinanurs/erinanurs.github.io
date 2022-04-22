@@ -4,8 +4,7 @@
 
 ### Category Name 1 
 
-[Asesmen Topic 2](/sample_page)
-<img src="Asesmen.ipynb"/>
+[Asesmen Topic 2](/Asesmen.ipynb)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
